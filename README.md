@@ -4,7 +4,7 @@
 
 ## Act 1: Undiscipling Environmental Education
 
-![Still of interviewer / interviewee from Undisciplining Nature Project](https://github.com/sjquigley/Coding-Nature-/blob/main/interview.jpg)
+![Still of interviewer / interviewee from Undisciplining Nature Project](https://github.com/sjquigley/Coding-Nature-/blob/main/interview.jpg =250x)
 
 ### Multimodal Installation Project
 
