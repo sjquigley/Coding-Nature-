@@ -31,6 +31,8 @@ In Finland there is no concept of Environmental Education
 
 ## Act 2: Intro to basic coding and Open Fuego
 
+![Screenshot of code editor](https://github.com/sjquigley/Coding-Nature-/blob/main/code.jpg)
+
 **Dilema of knowledge, authority, and power** *Who knows? Who decides who knows? Who decides who decides?* from Shoshona Zubhoff's *In the Age of The Smart Machines*
 
 * should everyone know a little about code?
@@ -47,7 +49,7 @@ In Finland there is no concept of Environmental Education
 
 ![Child walking through the woods](https://github.com/sjquigley/Coding-Nature-/blob/main/naturewalk.jpg)
 
-[My Nature Outing](https://github.com/Pitt-Fuego/my-nature-outing)
+[My Nature Study](https://sites.pitt.edu/~sjq4/)
 
 [Student Sample 1](https://sjquigley.github.io/My-Nature-Outing-Sample-Student-1/)
 
@@ -63,12 +65,5 @@ In Finland there is no concept of Environmental Education
 - [Stack Overflow](https://stackoverflow.com) Code questions and aggregated answers.
 
 
-<div>
-  <iframe id="inlineFrameExample"
-      title="Inline Frame Example"
-      width="600"
-      height="600"
-      src="https://sites.pitt.edu/~sjq4/UnDisciplining/">
-  </iframe>
-</div>
+
 
