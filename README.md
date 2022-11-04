@@ -4,6 +4,8 @@
 
 ## Act 1: Undiscipling Environmental Education
 
+![Still of interviewees from Undisciplining Nature Project](https://github.com/sjquigley/Coding-Nature-/blob/main/ifilm.png)
+
 ### Multimodal Installation Project
 
 In Finland there is no concept of Environmental Education
@@ -43,7 +45,7 @@ In Finland there is no concept of Environmental Education
 
 ## Act 3: My Nature Outing
 
-![naturewalk](https://github.com/sjquigley/Coding-Nature-/blob/main/naturewalk.jpg)
+![Child walking through the woods](https://github.com/sjquigley/Coding-Nature-/blob/main/naturewalk.jpg)
 
 [My Nature Outing](https://github.com/Pitt-Fuego/my-nature-outing)
 
