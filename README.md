@@ -43,6 +43,8 @@ In Finland there is no concept of Environmental Education
 
 ## Act 3: My Nature Outing
 
+![naturewalk](https://github.com/sjquigley/Coding-Nature-/blob/main/naturewalk.jpg)
+
 [My Nature Outing](https://github.com/Pitt-Fuego/my-nature-outing)
 
 [Student Sample 1](https://sjquigley.github.io/My-Nature-Outing-Sample-Student-1/)
