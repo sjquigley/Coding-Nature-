@@ -4,7 +4,7 @@
 
 ## Act 1: Undiscipling Environmental Education
 
-![Still of interviewees from Undisciplining Nature Project](https://github.com/sjquigley/Coding-Nature-/blob/main/ifilm.png)
+![Still of interviewer / interviewee from Undisciplining Nature Project](https://github.com/sjquigley/Coding-Nature-/blob/main/interview.jpg)
 
 ### Multimodal Installation Project
 
@@ -31,7 +31,7 @@ In Finland there is no concept of Environmental Education
 
 ## Act 2: Intro to basic coding and Open Fuego
 
-![Screenshot of code editor](https://github.com/sjquigley/Coding-Nature-/blob/main/code.jpg)
+![Screenshot of code editor](https://github.com/sjquigley/Coding-Nature-/blob/main/code.png)
 
 **Dilema of knowledge, authority, and power** *Who knows? Who decides who knows? Who decides who decides?* from Shoshona Zubhoff's *In the Age of The Smart Machines*
 
