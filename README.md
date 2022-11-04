@@ -31,7 +31,7 @@ In Finland there is no concept of Environmental Education
 
 ## Act 2: Intro to basic coding and Open Fuego
 
-![Screenshot of code editor](https://github.com/sjquigley/Coding-Nature-/blob/main/code.png)
+![Screenshot of code editor](code.png)
 
 **Dilema of knowledge, authority, and power** *Who knows? Who decides who knows? Who decides who decides?* from Shoshona Zubhoff's *In the Age of The Smart Machines*
 
@@ -47,7 +47,11 @@ In Finland there is no concept of Environmental Education
 
 ## Act 3: My Nature Outing
 
-![Child walking through the woods](https://github.com/sjquigley/Coding-Nature-/blob/main/naturewalk.jpg)
+![Child walking through the woods](naturewalk.jpg)
+
+* what is the value in combining code + multimodal methods + environmental science?
+* how can I better recognize indiginous knowledge/methods?
+* can a making a webtext lead to policy change? 
 
 [My Nature Study](https://sites.pitt.edu/~sjq4/)
 
