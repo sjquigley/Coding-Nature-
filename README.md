@@ -15,7 +15,7 @@ In Finland there is no concept of Environmental Education
 * what happens at nature schools?
 * what are the connections between environmental knowledge and environmental policy?
 
-[Film Clip](https://youtu.be/P0ZLPQHUHEo)
+[Film Clip](https://youtu.be/P0ZLPQHUHEo) :clapper: 
 
 [Project Link](https://sites.pitt.edu/~sjq4/UnDisciplining/) 
 <p>&nbsp;</p>
@@ -49,9 +49,10 @@ In Finland there is no concept of Environmental Education
 
 ![Child walking through the woods](naturewalk.jpg)
 
-* what is the value in combining code + multimodal methods + environmental science?
+* is there value in combining code + multimodal methods + environmental science?
 * how can I better recognize indiginous knowledge/methods?
-* can a making a webtext lead to policy change? 
+* how does this scale?
+
 
 [My Nature Study](https://sites.pitt.edu/~sjq4/)
 
