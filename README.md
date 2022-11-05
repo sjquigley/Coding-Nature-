@@ -62,8 +62,19 @@ In Finland there is no concept of Environmental Education
 
 <p>&nbsp;</p>
 
+## Additional Readings
 
-## Additional Resources
+Haas, A. M. (2007). Wampum as hypertext: An American Indian intellectual tradition of multimedia theory and practice. Studies in American Indian Literatures, 19(4), 77-100.
+[Article Link](https://muse.jhu.edu/article/235980/pdf?casa_token=W-stWt_zlw0AAAAA:CZxAmH_UXmo1CdbpJr3447_hix9HWZdIK3wjEIRHh13L5GX0WT7wgS-_Y3TcLhwqHuhX7-AqL6o)
+
+Quigley, S. J. (2002) Basic coding. Kairos. A journal of Rhetoric, Technology, and Pedagogy 26(2). [Article Link](https://kairos.technorhetoric.net/26.2/disputatio/quigley/index.html)
+
+Stolley, Karl. (2016). The lo-fi manifesto, v. 2.0. Kairos: A Journal of Rhetoric, Technology, and Pedagogy 20(2).
+[Article Link](https://kairos.technorhetoric.net/20.2/inventio/stolley/)
+
+<p>&nbsp;</p>
+
+## Resources
 - [Best Practices for Collaborating on GitHub](https://github.com/sjquigley/GitHub-in-the-Tech-Comm-Classroom)
 - [Open Fuego FAQ/Teaching Best Practices](https://open-fuego.github.io/Open-Fuego-Coding-Tools/) (scroll to the bottom of the page to find FAQ and Best Practices)
 - [W3](https://www.w3schools.com) provides a wide range of code reference, tutorials, and a sandbox allowing code play.
