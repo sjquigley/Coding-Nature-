@@ -33,10 +33,10 @@ In Finland there is no concept of Environmental Education
 
 ![Screenshot of code editor](code.png)
 
-**Dilema of knowledge, authority, and power** *Who knows? Who decides who knows? Who decides who decides?* from Shoshona Zubhoff's *In the Age of The Smart Machines*
+**Dilemma  of knowledge, authority, and power** *Who knows? Who decides who knows? Who decides who decides?* from Shoshona Zubhoff's *In the Age of The Smart Machines*
 
 * should everyone know a little about code?
-* if so, what is our reponsibility as educators?
+* if so, what is our responsibility  as educators?
 * what other forces are at play? 
 
 
@@ -50,7 +50,7 @@ In Finland there is no concept of Environmental Education
 ![Child walking through the woods](naturewalk.jpg)
 
 * is there value in combining code + multimodal methods + environmental science?
-* how can I better recognize indiginous knowledge/methods?
+* how can I better recognize indigenous  knowledge/methods?
 * how does this scale?
 
 
