@@ -8,9 +8,6 @@
 
 ### Multimodal Installation Project
 
-In Finland there is no concept of Environmental Education
-
-
 * what are nature schools?
 * what happens at nature schools?
 * what are the connections between environmental knowledge and environmental policy?
@@ -50,7 +47,7 @@ In Finland there is no concept of Environmental Education
 ![Child walking through the woods](naturewalk.jpg)
 
 * is there value in combining code + multimodal methods + environmental science?
-* how can I better recognize indigenous  knowledge/methods?
+* how can I better recognize indigenous knowledge/methods?
 * how does this scale?
 
 
